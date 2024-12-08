@@ -2,7 +2,7 @@
 
 This project visualizes various search algorithms using Pygame. It includes implementations for A* search, Bidirectional search, and Breadth-First Search (BFS). The visualization allows users to create a grid, set start and goal positions, and run the algorithms to see how they find paths.
 
-![Search Algorithms Visualization](images/screenshot.png)
+![Search Algorithms Visualization](images/Capture.png)
 
 ## Prerequisites
 
